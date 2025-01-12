@@ -1,2 +1,2 @@
-# timodi-server.github.io
-рррараррарара
+# Сайт-визитка
+timodi
